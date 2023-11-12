@@ -1,0 +1,28 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasMartinez0017/poc-smart-contract.git"
+  },
+  "author": "Tomas Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomasMartinez0017/poc-smart-contract/issues"
+  },
+  "homepage": "https://github.com/TomasMartinez0017/poc-smart-contract#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
